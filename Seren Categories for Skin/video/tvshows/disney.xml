@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Disney +</label>
+	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Disney%2B</path>
+	<icon>DefaultAddonInputstream.png</icon>
+</node>
