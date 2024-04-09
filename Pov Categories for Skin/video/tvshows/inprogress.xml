@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>In Progress</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.pov/?name=32481&amp;iconImage=in_progress_tvshow.png&amp;mode=build_tvshow_list&amp;action=in_progress_tvshows</path>
+</node>
