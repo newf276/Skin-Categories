@@ -1,0 +1,5 @@
+<node order="60" type="folder">
+	<label>Clear Cache</label>
+	<icon>DefaultHardDisk.png</icon>
+	<path>plugin://plugin.video.myflix/?mode=navigator.clear_info&amp;name=Clean+Settings+Files+and+Clear+Caches&amp;iconImage=%2FUsers%2Fian%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.myflix%2Fresources%2Fmedia%2Fsettings.png/</path>
+</node>

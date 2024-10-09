@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>Search for Movies</label>
+	<icon>DefaultAddonsSearch.png</icon>
+	<path>plugin://plugin.video.myflix/?mode=search_history&amp;action=movie&amp;name=Movies&amp;iconImage=%2FUsers%2Fian%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.myflix%2Fresources%2Fmedia%2Fsearch_movie.png</path>
+</node>

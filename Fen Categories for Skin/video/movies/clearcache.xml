@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Clear Cache</label>
+	<path>plugin://plugin.video.fen/?mode=navigator.maintenance&amp;iconImage=https%3A%2F%2Fi.imgur.com%2F4xBbqSw.png</path>
+	<icon>DefaultHardDisk.png</icon>
+</node>

@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Upcoming</label>
+	<path>plugin://plugin.video.newf/?name=Up+Coming&amp;iconImage=lists&amp;mode=build_tvshow_list&amp;action=tmdb_tv_upcoming&amp;random_support=true</path>
+	<icon>DefaultTVShowTitle.png</icon>
+</node>

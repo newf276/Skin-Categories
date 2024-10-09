@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>Anticipated</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.fen/?name=32469&amp;iconImage=lists&amp;mode=build_movie_list&amp;action=tmdb_movies_upcoming</path>
+</node>
