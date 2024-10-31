@@ -1,5 +1,0 @@
-<node order="30" type="folder">
-	<label>TMDB Trending</label>
-	<icon>DefaultTags.png</icon>
-	<path>plugin://plugin.video.popcorn/?action=genericEndpoint&amp;endpoint=trending&amp;mediatype=movies</path>
-</node>

@@ -1,5 +1,0 @@
-<node order="20" type="folder">
-	<label>Coming Soon</label>
-	<icon>DefaultStudios.png</icon>
-	<path>plugin://plugin.video.popcorn/?action=genericEndpoint&amp;endpoint=anticipated&amp;mediatype=movies</path>
-</node>
