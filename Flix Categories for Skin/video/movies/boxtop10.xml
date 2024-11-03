@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Box Office Top 10</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.flix/?name=32462&amp;iconImage=box_office.png&amp;mode=build_movie_list&amp;action=trakt_movies_top10_boxoffice</path>
+</node>
