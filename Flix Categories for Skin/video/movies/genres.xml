@@ -1,4 +1,4 @@
-<node order="40" type="folder">
+<node order="20" type="folder">
 	<label>Genres</label>
 	<icon>DefaultGenre.png</icon>
 	<path>plugin://plugin.video.flix/?name=32470&amp;iconImage=genres.png&amp;mode=navigator.genres&amp;menu_type=movie/</path>

@@ -1,0 +1,5 @@
+<node order="50" type="folder">
+	<label>Paramount +</label>
+	<path>plugin://plugin.video.flix/?action=tmdb_tv_networks&amp;iconImage=https%3a%2f%2fi.imgur.com%2fdmUjWmU.png&amp;mode=build_tvshow_list&amp;name=Paramount%2b&amp;network_id=4330</path>
+	<icon>DefaultMovieTitle.png</icon>
+</node>

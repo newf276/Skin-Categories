@@ -1,5 +1,0 @@
-<node order="10" type="folder">
-	<label>Latest Releases</label>
-	<path>plugin://plugin.video.flix/?name=32461&amp;iconImage=dvd.png&amp;mode=build_movie_list&amp;action=tmdb_movies_latest_releases</path>
-	<icon>DefaultPlaylist.png</icon>
-</node>
