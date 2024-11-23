@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>575</label>
+	<icon>DefaultInProgressShows.png</icon>
+	<path>plugin://plugin.video.finder/?name=32481&amp;action=in_progress_tvshows&amp;iconImage=in_progress_tvshow&amp;mode=build_tvshow_list</path>
+</node>
