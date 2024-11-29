@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>Premieres</label>
+	<icon>DefaultStudios.png</icon>
+	<path>plugin://plugin.video.fen/?name=32460&amp;action=tmdb_tv_premieres&amp;iconImage=fresh.png&amp;mode=build_tvshow_list</path>
+</node>
