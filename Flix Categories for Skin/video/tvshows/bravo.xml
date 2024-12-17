@@ -1,5 +1,0 @@
-<node order="10" type="folder">
-	<label>Bravo</label>
-	<icon>DefaultStudios.png</icon>
-	<path>plugin://plugin.video.flix/?action=tmdb_tv_networks&amp;iconImage=https%3a%2f%2fi.imgur.com%2fTmEO3Tn.png&amp;mode=build_tvshow_list&amp;name=Bravo&amp;network_id=74</path>
-</node>

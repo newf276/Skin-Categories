@@ -1,5 +1,0 @@
-<node order="40" type="folder">
-	<label>Trending</label>
-	<path>plugin://plugin.video.flix/?action=trakt_movies_trending&amp;iconImage=trending.png&amp;mode=build_movie_list&amp;name=32458</path>
-	<icon>DefaultPlaylist.png</icon>
-</node>

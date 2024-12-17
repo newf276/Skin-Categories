@@ -1,5 +1,0 @@
-<node order="30" type="folder">
-	<label>Lifetime</label>
-	<path>plugin://plugin.video.flix/?mode=build_tvshow_list&amp;action=tmdb_tv_networks&amp;network_id=34&amp;name=Lifetime&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FtvYbhen.png/</path>
-	<icon>DefaultInProgressShows.png</icon>
-</node>
