@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Most Popular</label>
+	<icon>DefaultGenre.png</icon>
+	<path>plugin://plugin.video.seren/?action=genericEndpoint&amp;endpoint=popular&amp;mediatype=movies</path>
+</node>

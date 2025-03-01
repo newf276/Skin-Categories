@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>Search Trakt</label>
+	<icon>DefaultAddonsSearch.png</icon>
+	<path>plugin://plugin.video.fenlight/?mode=navigator.search_history&amp;action=movie&amp;name=Movies&amp;iconImage=https%3A%2F%2Fi.imgur.com%2Fu8jgyN3.png</path>
+</node>

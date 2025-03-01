@@ -1,0 +1,5 @@
+<node type="folder">
+	<label>Live</label>
+	<path>plugin://plugin.video.embycon/?url=%7Bserver%7D/emby/LiveTv/Programs/Recommended%3FUserId%3D%7Buserid%7D%26IsAiring%3DTrue%26ImageTypeLimit%3D1%26Fields%3DChannelInfo%252C%7Bfield_filters%7D%26EnableTotalRecordCount%3DFalse%26format%3Djson&amp;mode=GET_CONTENT&amp;media_type=livetv/</path>
+	<icon>DefaultAddonPVRClient.png</icon>
+</node>

@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>Studios</label>
+	<path>plugin://plugin.video.fenlight/?name=Providers&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FncriWoB.png&amp;mode=navigator.providers&amp;menu_type=movie&amp;random_support=true/</path>
+	<icon>DefaultStudios.png</icon>
+</node>

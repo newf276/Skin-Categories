@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>Search Flix</label>
+	<path>plugin://plugin.video.flix/?mode=search_history&amp;action=movie&amp;name=Movies&amp;iconImage=%2FUsers%2Fian%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.flix%2Fresources%2Fmedia%2Fsearch_movie.png</path>
+	<icon>DefaultAddonsSearch.png</icon>
+</node>

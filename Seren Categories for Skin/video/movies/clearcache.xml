@@ -1,0 +1,5 @@
+<node order="90" type="folder">
+	<label>Clear Cache</label>
+	<path>plugin://plugin.video.seren/?action=clearTorrentCache</path>
+	<icon>DefaultHardDisk.png</icon>
+</node>

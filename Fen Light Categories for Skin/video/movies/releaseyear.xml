@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Release Year</label>
+	<icon>DefaultYear.png</icon>
+	<path>plugin://plugin.video.fenlight/?name=32472&amp;iconImage=calender&amp;mode=navigator.years&amp;menu_type=movie</path>
+</node>

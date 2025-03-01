@@ -1,0 +1,5 @@
+<node order="50" type="folder">
+	<label>Genres</label>
+	<path>plugin://plugin.video.fenlight/?name=Genres&amp;iconImage=https%3A%2F%2Fi.imgur.com%2F6QpJbS0.png&amp;mode=navigator.genres&amp;menu_type=tvshow&amp;random_support=true</path>
+	<icon>DefaultGenre.png</icon>
+</node>

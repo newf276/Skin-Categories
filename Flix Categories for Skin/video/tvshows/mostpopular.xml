@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>Most Popular</label>
+	<path>plugin://plugin.video.flix/?name=32459&amp;action=tmdb_tv_popular&amp;iconImage=popular.png&amp;mode=build_tvshow_list</path>
+	<icon>DefaultGenre.png</icon>
+</node>

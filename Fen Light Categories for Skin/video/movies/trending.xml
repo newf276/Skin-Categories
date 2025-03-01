@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Trending</label>
+	<icon>DefaultPlaylist.png</icon>
+	<path>plugin://plugin.video.fenlight/?name=32458&amp;iconImage=trending&amp;mode=build_movie_list&amp;action=trakt_movies_trending</path>
+</node>

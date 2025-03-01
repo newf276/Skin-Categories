@@ -1,0 +1,5 @@
+<node order="50" type="folder">
+	<label>Search Fen</label>
+	<path>plugin://plugin.video.fen/?name=32450&amp;iconImage=search.png&amp;mode=navigator.search</path>
+	<icon>DefaultAddonsSearch.png</icon>
+</node>

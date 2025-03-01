@@ -1,0 +1,5 @@
+<node order="40" type="folder">
+	<label>Open Fen</label>
+	<icon>DefaultAddon.png</icon>
+	<path>plugin://plugin.video.fen</path>
+</node>

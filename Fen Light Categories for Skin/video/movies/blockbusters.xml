@@ -1,0 +1,5 @@
+<node order="50" type="folder">
+	<label>Blockbusters</label>
+	<icon>DefaultMovieTitle.png</icon>
+	<path>plugin://plugin.video.fenlight/?name=Blockbusters&amp;iconImage=most_voted&amp;mode=build_movie_list&amp;action=tmdb_movies_blockbusters&amp;random_support=true</path>
+</node>

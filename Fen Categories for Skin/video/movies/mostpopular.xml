@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>Most Popular</label>
+	<icon>DefaultGenre.png</icon>
+	<path>plugin://plugin.video.fen/?name=32459&amp;iconImage=popular&amp;mode=build_movie_list&amp;action=tmdb_movies_popular</path>
+</node>

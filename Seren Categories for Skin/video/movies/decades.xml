@@ -1,0 +1,5 @@
+<node order="10" type="folder">
+	<label>Years</label>
+	<icon>DefaultYear.png</icon>
+	<path>plugin://plugin.video.seren/?action=movieYears</path>
+</node>

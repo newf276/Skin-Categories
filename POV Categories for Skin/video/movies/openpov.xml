@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Open Pov</label>
+	<icon>DefaultAddon.png</icon>
+	<path>plugin://plugin.video.pov</path>
+</node>

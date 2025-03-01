@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Discovery +</label>
+	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Discovery%2B</path>
+	<icon>DefaultAddonInputstream.png</icon>
+</node>

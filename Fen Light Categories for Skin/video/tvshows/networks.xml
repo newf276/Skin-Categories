@@ -1,0 +1,5 @@
+<node order="30" type="folder">
+	<label>Networks</label>
+	<icon>DefaultTags.png</icon>
+	<path>plugin://plugin.video.fenlight/?name=32480&amp;iconImage=networks&amp;mode=navigator.networks&amp;menu_type=tvshow/</path>
+</node>
