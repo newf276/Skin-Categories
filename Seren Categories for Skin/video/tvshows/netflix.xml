@@ -1,5 +1,0 @@
-<node order="50" type="folder">
-	<label>Netflix</label>
-	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Netflix</path>
-	<icon>DefaultInProgressShows.png</icon>
-</node>

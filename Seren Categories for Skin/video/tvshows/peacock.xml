@@ -1,4 +1,4 @@
-<node order="60" type="folder">
+<node order="40" type="folder">
 	<label>Peacock</label>
 	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Peacock</path>
 	<icon>DefaultInProgressShows.png</icon>

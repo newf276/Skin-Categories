@@ -1,4 +1,4 @@
-<node order="20" type="folder">
+<node order="10" type="folder">
 	<label>Apple TV +</label>
 	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Apple+TV%2B</path>
 	<icon>DefaultAddonInputstream.png</icon>

@@ -1,5 +1,0 @@
-<node order="10" type="folder">
-	<label>Amazon</label>
-	<path>plugin://plugin.video.seren/?action=showsNetworkShows&amp;action_args=Amazon</path>
-	<icon>DefaultInProgressShows.png</icon>
-</node>
