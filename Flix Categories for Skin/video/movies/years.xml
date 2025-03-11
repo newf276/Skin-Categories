@@ -1,4 +1,4 @@
-<node order="40" type="folder">
+<node order="30" type="folder">
 	<label>Years</label>
 	<icon>DefaultYear.png</icon>
 	<path>plugin://plugin.video.flix/?name=32472&amp;iconImage=calender.png&amp;mode=navigator.years&amp;menu_type=movie</path>

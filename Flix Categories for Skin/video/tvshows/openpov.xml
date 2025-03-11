@@ -1,4 +1,4 @@
-<node order="30" type="folder">
+<node order="40" type="folder">
 	<label>Open Flix</label>
 	<icon>DefaultAddon.png</icon>
 	<path>plugin://plugin.video.flix</path>
