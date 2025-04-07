@@ -1,5 +1,0 @@
-<node order="20" type="folder">
-	<label>Hulu Shows</label>
-	<path>plugin://plugin.video.fenlight/?mode=trakt.list.build_trakt_list&amp;user=garycrawfordgc&amp;slug=hulu-shows&amp;list_type=user_lists&amp;list_name=Hulu+Shows/</path>
-	<icon>DefaultPlaylist.png</icon>
-</node>

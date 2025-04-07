@@ -1,0 +1,5 @@
+<node order="20" type="folder">
+	<label>About That</label>
+	<icon>special://home/addons/plugin.video.cbc/at.png</icon>
+	<path>plugin://plugin.video.cbc/gem/layout/Show/about-that-with-andrew-chang</path>
+</node>
